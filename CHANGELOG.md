@@ -1,5 +1,18 @@
 # Changelog
 
+## 4.56.1 (2025-11-11)
+
+Full Changelog: [v4.56.0...v4.56.1](https://github.com/RetellAI/retell-python-sdk/compare/v4.56.0...v4.56.1)
+
+### Bug Fixes
+
+* compat with Python 3.14 ([849536b](https://github.com/RetellAI/retell-python-sdk/commit/849536bee0e2831d8c05e45d7829ccd61c3d3e8d))
+
+
+### Chores
+
+* **package:** drop Python 3.8 support ([4867404](https://github.com/RetellAI/retell-python-sdk/commit/4867404155096db1f2783960753cf92ca1d31dd4))
+
 ## 4.56.0 (2025-11-05)
 
 Full Changelog: [v4.55.0...v4.56.0](https://github.com/RetellAI/retell-python-sdk/compare/v4.55.0...v4.56.0)
